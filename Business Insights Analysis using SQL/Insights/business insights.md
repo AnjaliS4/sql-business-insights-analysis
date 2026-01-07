@@ -4,7 +4,7 @@
 
 The objective of this analysis is to provide business stakeholders with clear visibility into customer performance, sales trends, and product revenue using SQL-based analysis on the AdventureWorks database. The insights aim to support data-driven decisions in marketing, sales, and inventory management.
 
-# 1. Customer-Centric Insights
+## 1. Customer-Centric Insights
 
 ## Total Sales per Customer
 
@@ -52,7 +52,7 @@ These customers represent missed revenue opportunities and may reflect gaps in o
 
 Launch reactivation campaigns such as welcome discounts, reminder emails, or first-purchase incentives to convert inactive customers.
 
-# 2. Time-Based Sales Insights
+## 2. Time-Based Sales Insights
 
 ## Monthly Sales Trend
 
@@ -75,7 +75,7 @@ This pattern suggests seasonality or campaign-driven sales cycles.
 
 - Investigate causes of low-performing months to reduce volatility
 
-# 3. Product-Centric Insights
+## 3. Product-Centric Insights
 
 ## Top 5 Products by Revenue per Category
 
@@ -131,4 +131,5 @@ Perform a data quality audit to assign proper categories and ensure consistent p
 # Conclusion
 
 This project demonstrates how SQL_driven analysis can convert raw transactional data into actionable business insights. By combining customer, product, and time-based analysis, the project mirrors real-world analytical work performed by Business and Data Analysts to support strategic decison_making.
+
 
