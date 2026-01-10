@@ -1,3 +1,4 @@
+
 # SQL Business Insights Analysis (AdventureWorks)
 ## Project Overview
 This project uses SQL to analyze the AdventureWorks database and extract meaningful business insights related to customers, sales trends, and products.
