@@ -28,7 +28,7 @@ Average order values vary drastically across customers. While some customers hav
 
 ### Business Impact:
 
-This highlights different purchasing behaviors — some customers buy frequently in small amounts, while others make infrequent but high-value purchases.
+This highlights different purchasing behaviors, some customers buy frequently in small amounts, while others make infrequent but high-value purchases.
 
 ### Recommendation:
 
@@ -130,6 +130,7 @@ Perform a data quality audit to assign proper categories and ensure consistent p
 
 # Conclusion
 
-This project demonstrates how SQL_driven analysis can convert raw transactional data into actionable business insights. By combining customer, product, and time-based analysis, the project mirrors real-world analytical work performed by Business and Data Analysts to support strategic decison_making.
+This project demonstrates how SQL_driven analysis can convert raw transactional data into actionable business insights. By combining customer, product, and time-based analysis, the project mirrors real-world analytical work performed by Business and Data Analysts to support strategic decison making.
+
 
 
